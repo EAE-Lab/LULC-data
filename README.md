@@ -6,6 +6,7 @@ The UPRB-1985 used 52 Landsat 5 orthorectified scenes, and the UPRB-2015 data us
 The Classification scheme adopted and the RGB for each Land cover class is provided below:
 Cod – Class (RGB of the color suggested)
 10 – Forest (0-81-0)
+
 11 – Plated Forest (85-255-0)
 20 – Cropland (166-141-9)
 30 – Grassland (254-229-88)
