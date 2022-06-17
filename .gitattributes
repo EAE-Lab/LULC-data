@@ -1,0 +1,2 @@
+LULC_files/UPRB_OBJECT_BASED_1985.tif filter=lfs diff=lfs merge=lfs -text
+LULC_files/UPRB_OBJECT_BASED_2015.tif filter=lfs diff=lfs merge=lfs -text
